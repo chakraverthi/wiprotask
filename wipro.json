@@ -1,0 +1,42 @@
+{"results":[{
+
+    "gender":"female",
+	
+	"name":{"title":"ms","first":"jeanne","last":"clark"},
+	
+	"location":{"street":"8537 concession road 6","city":"lafontaine","state":"ontario","postcode":"I5N 2D7",
+	
+	"coordinates":{"latitude":"-65.4814","longitude":"96.9290"},
+	
+	"timezone":{"offset":"-3:30","description":"Newfoundland"}},
+	
+	"email":"jeanne.clark@example.com",
+	
+	"login":{"uuid":"93b5d58a-f82e-4b58-ae53-4390e6fd4877","username":"bluefish284","password":"experienced","salt":"Gk5SuHN5","md5":"a795651fd210c0c5f8dec7789c1b09c3","sha1":"dc99f97fe9e7efd6a1f57ad22b0a69fe7540fee4","sha256":"c1436fc344e997861bf0ec64e3e89de6579f0fa0eefbe24e1812b9fb6924166c"},
+	
+	
+	"dob":{"date":"1974-10-08T16:06:37Z","age":44},
+	
+	"registered":{"date":"2002-04-27T18:44:56Z","age":16},
+	
+	"phone":"398-254-4407",
+	
+	"cell":"631-361-5034",
+	
+	"id":{"name":"","value":null},
+	
+	"picture":{"large":"https://randomuser.me/api/portraits/women/86.jpg",
+	
+	"medium":"https://randomuser.me/api/portraits/med/women/86.jpg",
+	
+	"thumbnail":"https://randomuser.me/api/portraits/thumb/women/86.jpg"},
+	
+	
+	"nat":"CA"
+	
+	
+	      }],
+		  
+		  
+		  
+		  "info":{"seed":"5501445f7e3dcbd3","results":1,"page":1,"version":"1.2"}}
